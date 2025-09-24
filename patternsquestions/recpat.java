@@ -1,3 +1,4 @@
+//This is rectangle pattern.
 public class recpat{
     public static void main(String[] args) {
      for (int i= 1; i <=4; i++){
@@ -6,7 +7,7 @@ public class recpat{
         System.out.print("*");
 
       }
-    System.err.println("");
+    System.err.println();
      
     
 }}}
